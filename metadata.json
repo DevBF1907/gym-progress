@@ -1,0 +1,6 @@
+{
+  "name": "Gym Progress",
+  "description": "Registre suas cargas de treino de forma extremamente rápida e acompanhe sua evolução com gráficos interativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
